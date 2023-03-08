@@ -1,4 +1,4 @@
-# 🔰 라이징 캠프 테스트 '오늘의 집' 클론 코딩
+# 🔰 라이징 캠프 테스트 '오늘의 집' 클론 코딩 9/17 ~ 30
 <div align="center">
   <img src="https://user-images.githubusercontent.com/54674781/191506075-efa364a2-59a5-4f45-9525-291e043e10cd.png"
     width="200" height="200"/>
